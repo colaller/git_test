@@ -1,12 +1,12 @@
 {
   "folders": [
-	{
-		"path": "../../../Videos/01 - Introducción al Curso y JavaScript/01 - Introducción al Curso y JavaScript/004 Curso-JS-Moderno/Curso JS Moderno"
-	},
-	{
-		"path": "../../../Videos/01 - Introducción al Curso y JavaScript/01 - Introducción al Curso y JavaScript/004 Curso-JS-Moderno/__MACOSX"
-	}
-],
+    {
+      "path": "../../../Videos/01 - Introducción al Curso y JavaScript/01 - Introducción al Curso y JavaScript/004 Curso-JS-Moderno/Curso JS Moderno"
+    },
+    {
+      "path": "../../../Videos/01 - Introducción al Curso y JavaScript/01 - Introducción al Curso y JavaScript/004 Curso-JS-Moderno/__MACOSX"
+    }
+  ],
   "settings": {
     "liveServer.settings.multiRootWorkspaceName": "Curso JS Moderno",
     "editor.formatOnSave": true,
